@@ -2,7 +2,7 @@
     "name": "clk528/zhimaSdk",
     "type": "library",
     "description": "PSR-7 message implementation that also provides common utility methods",
-    "keywords": ["request", "response", "message", "stream", "http", "uri", "url"],
+    "keywords": ["芝麻","sdk" "zhima"],
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "php": ">=5.6.0",
+        "php": ">=5.6.0"
     },
     "require-dev": {
         "symfony/var-dumper": "^3.3"
