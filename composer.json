@@ -2,7 +2,7 @@
     "name": "clk528/zhimaSdk",
     "type": "library",
     "description": "PSR-7 message implementation that also provides common utility methods",
-    "keywords": ["芝麻","sdk" "zhima"],
+    "keywords": ["zhimasdk","sdk" "zhima"],
     "license": "MIT",
     "authors": [
         {
