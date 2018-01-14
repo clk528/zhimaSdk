@@ -1,5 +1,5 @@
 {
-    "name": "clk528/zhimaSdk",
+    "name": "clk528/zhima-sdk",
     "type": "library",
     "description": "PSR-7 message implementation that also provides common utility methods",
     "keywords": ["芝麻","芝麻sdk","zhimasdk","sdk","zhima"],
